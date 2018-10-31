@@ -1,0 +1,19 @@
+2018-10-22 7:03:49 - select sid from oc_product_to_state where state_id='59' and product_id='55'
+2018-10-22 7:03:49 - insert into oc_product_to_state set product_id ='55',state_id='59',ws_price='',rt_price='', cr_date=CURDATE(), act='1' 
+2018-10-22 7:03:49 - select sid from oc_product_to_state where state_id='2' and product_id='55'
+2018-10-22 7:03:49 - 1select sid from oc_product_to_state where state_id='2' and product_id='55' and cr_date=CURDATE()
+2018-10-22 7:03:49 - update oc_product_to_state set act='0' where state_id='2' and product_id='55'
+2018-10-22 7:03:49 - 2insert into oc_product_to_state set product_id ='55',state_id='2',ws_price='',rt_price='', cr_date=CURDATE(), act='1' 
+2018-10-22 7:03:49 - select sid from oc_product_to_state where state_id='4' and product_id='55'
+2018-10-22 7:03:49 - 1select sid from oc_product_to_state where state_id='4' and product_id='55' and cr_date=CURDATE()
+2018-10-22 7:03:49 - update oc_product_to_state set act='0' where state_id='4' and product_id='55'
+2018-10-22 7:03:49 - 2insert into oc_product_to_state set product_id ='55',state_id='4',ws_price='',rt_price='', cr_date=CURDATE(), act='1' 
+2018-10-22 7:05:16 - select sid from oc_product_to_state where state_id='59' and product_id='55'
+2018-10-22 7:05:16 - 1select sid from oc_product_to_state where state_id='59' and product_id='55' and cr_date=CURDATE()
+2018-10-22 7:05:16 - update oc_product_to_state set ws_price='0.00',rt_price='0.00' where state_id='59' and product_id='55' and act=1
+2018-10-22 7:05:16 - select sid from oc_product_to_state where state_id='2' and product_id='55'
+2018-10-22 7:05:16 - 1select sid from oc_product_to_state where state_id='2' and product_id='55' and cr_date=CURDATE()
+2018-10-22 7:05:16 - update oc_product_to_state set ws_price='0.00',rt_price='0.00' where state_id='2' and product_id='55' and act=1
+2018-10-22 7:05:16 - select sid from oc_product_to_state where state_id='4' and product_id='55'
+2018-10-22 7:05:16 - 1select sid from oc_product_to_state where state_id='4' and product_id='55' and cr_date=CURDATE()
+2018-10-22 7:05:16 - update oc_product_to_state set ws_price='0.00',rt_price='0.00' where state_id='4' and product_id='55' and act=1

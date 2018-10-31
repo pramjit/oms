@@ -1,0 +1,2 @@
+2018-10-22 7:03:49 - SELECT * FROM oc_product p LEFT JOIN oc_product_description pd ON (p.product_id = pd.product_id) WHERE pd.language_id = '1' GROUP BY p.product_id ORDER BY pd.name ASC LIMIT 0,20
+2018-10-22 7:05:16 - SELECT * FROM oc_product p LEFT JOIN oc_product_description pd ON (p.product_id = pd.product_id) WHERE pd.language_id = '1' GROUP BY p.product_id ORDER BY pd.name ASC LIMIT 0,20

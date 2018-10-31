@@ -1,0 +1,227 @@
+2018-10-22 7:03:49 - Array
+(
+    [product_description] => Array
+        (
+            [1] => Array
+                (
+                    [name] => CERTIFIED WHEAT SEED PBW 343
+                    [meta_title] => CERTIFIED WHEAT SEED PBW 343
+                    [description] => &lt;p&gt;
+  CERTIFIED WHEAT
+  SEED PBW 343
+&lt;/p&gt;
+                    [meta_description] => 
+                    [meta_keyword] => 
+                    [tag] => 
+                )
+
+        )
+
+    [image] => 
+    [model] => CERTIFIED WHEAT SEED
+    [sku] => FG0055
+    [upc] => 
+    [ean] => 
+    [jan] => 
+    [isbn] => 
+    [mpn] => 
+    [location] => 
+    [price_tax] => 21.00
+    [price] => 21
+    [rtlr_price] => 22.00
+    [tax_class_id] => 0
+    [quantity] => 10
+    [minimum] => 1
+    [subtract] => 1
+    [stock_status_id] => 6
+    [shipping] => 1
+    [keyword] => 
+    [date_available] => 2017-04-25
+    [length] => 0.00000000
+    [width] => 0.00000000
+    [height] => 0.00000000
+    [length_class_id] => 1
+    [weight] => 0.00000000
+    [weight_class_id] => 1
+    [status] => 1
+    [sort_order] => 1
+    [manufacturer] => 
+    [manufacturer_id] => 0
+    [category] => 
+    [product_category] => Array
+        (
+            [0] => 31
+        )
+
+    [filter] => 
+    [product_store] => Array
+        (
+            [0] => 1
+        )
+
+    [download] => 
+    [related] => 
+    [option] => 
+    [points] => 0
+    [product_reward] => Array
+        (
+            [1] => Array
+                (
+                    [points] => 0
+                )
+
+        )
+
+    [product_layout] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [SL] => Array
+        (
+            [0] => 59
+            [1] => 2
+            [2] => 4
+        )
+
+    [WS_ST_59_PD_] => 
+    [RT_ST_59_PD_] => 
+    [WS_ST_2_PD_] => 
+    [RT_ST_2_PD_] => 
+    [WS_ST_4_PD_] => 
+    [RT_ST_4_PD_] => 
+    [quantitystore0] => 0
+    [qquantitystoreprice1] => 0.0000
+    [quantitystoreprice0] => 0
+    [quantitystore1] => 10
+    [quantitystoreprice1] => 0.0000
+    [store_id] => 
+    [user_id] => 
+    [api_group_id] => 
+)
+
+2018-10-22 7:03:49 - 
+2018-10-22 7:04:58 - Array
+(
+    [store_id] => 
+    [user_id] => 
+    [api_group_id] => 
+)
+
+2018-10-22 7:04:58 - 
+2018-10-22 7:05:16 - Array
+(
+    [product_description] => Array
+        (
+            [1] => Array
+                (
+                    [name] => CERTIFIED WHEAT SEED PBW 343
+                    [meta_title] => CERTIFIED WHEAT SEED PBW 343
+                    [description] => &lt;p&gt;
+  CERTIFIED WHEAT
+  SEED PBW 343
+&lt;/p&gt;
+                    [meta_description] => 
+                    [meta_keyword] => 
+                    [tag] => 
+                )
+
+        )
+
+    [image] => 
+    [model] => CERTIFIED WHEAT SEED
+    [sku] => FG0055
+    [upc] => 
+    [ean] => 
+    [jan] => 
+    [isbn] => 
+    [mpn] => 
+    [location] => 
+    [price_tax] => 10
+    [price] => 10
+    [rtlr_price] => 11
+    [tax_class_id] => 0
+    [quantity] => 10
+    [minimum] => 1
+    [subtract] => 1
+    [stock_status_id] => 6
+    [shipping] => 1
+    [keyword] => 
+    [date_available] => 2017-04-25
+    [length] => 0.00000000
+    [width] => 0.00000000
+    [height] => 0.00000000
+    [length_class_id] => 1
+    [weight] => 0.00000000
+    [weight_class_id] => 1
+    [status] => 1
+    [sort_order] => 1
+    [manufacturer] => 
+    [manufacturer_id] => 0
+    [category] => 
+    [product_category] => Array
+        (
+            [0] => 31
+        )
+
+    [filter] => 
+    [product_store] => Array
+        (
+            [0] => 0
+            [1] => 0
+            [2] => 1
+        )
+
+    [download] => 
+    [related] => 
+    [option] => 
+    [points] => 0
+    [product_reward] => Array
+        (
+            [1] => Array
+                (
+                    [points] => 0
+                )
+
+        )
+
+    [product_layout] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [SL] => Array
+        (
+            [0] => 59
+            [1] => 2
+            [2] => 4
+        )
+
+    [WS_ST_59_PD_55] => 0.00
+    [RT_ST_59_PD_55] => 0.00
+    [WS_ST_2_PD_55] => 0.00
+    [RT_ST_2_PD_55] => 0.00
+    [WS_ST_4_PD_55] => 0.00
+    [RT_ST_4_PD_55] => 0.00
+    [quantitystore0] => 0
+    [qquantitystoreprice0] => 0.0000
+    [quantitystoreprice0] => 0.0000
+    [quantitystore1] => 10
+    [qquantitystoreprice1] => 0.0000
+    [quantitystoreprice1] => 0.0000
+    [store_id] => 
+    [user_id] => 
+    [api_group_id] => 
+)
+
+2018-10-22 7:05:16 - 
+2018-10-22 7:43:29 - Array
+(
+    [store_id] => 
+    [user_id] => 
+    [api_group_id] => 
+)
+
+2018-10-22 7:43:29 - 
